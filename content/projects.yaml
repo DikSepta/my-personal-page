@@ -1,0 +1,76 @@
+- name: User Interface of Epson Inkjet Printer
+  url: https://www.youtube.com/watch?v=G7TzNLPHy0k
+  description: Design, develop and maintain firmware of Printer's User Interface for various Epson Printer series including Workforce Series, ET Series, and XP Series.
+  tags:
+    - Professional Project
+    - C++
+    - MVC
+    - OOP
+    - Perforce
+    - RTOS
+  icon: printer
+  image: images/epson-printer.jpg
+
+- name: DNA E-commerce
+  url: https://dna-commerce.herokuapp.com/
+  description: Simple e-commerce web app built using react as front end framework, firebase as database storage and authentication, and also redux as state management library. It has basic e-commerce functionality such as user authentication, product listing, add to cart, and payment.
+  tags:
+    - Personal Project
+    - React
+    - Firebase
+    - Stripe
+    - Redux
+    - Redux Saga
+    - Styled component
+  icon: website
+  image: images/dna-commerce.png
+
+- name: Natours Landing Page
+  url: https://diksepta.github.io/natours-landing-page/
+  description: A landing page from Natours, tour guide company. Built as a part of Udemy Advance CSS and SASS course by Jonas Schmedtmann. This site is focused on styling techniques using SASS. Hence some functionality are not intentionally built.
+  tags:
+    - Personal Project
+    - CSS
+    - SASS
+    - npm
+  icon: website
+  image: images/natours.png
+
+- name: Laboratory App
+  url: https://github.com/DikSepta/laboratoryapp
+  description: Simple laboratory app built using Django framework. This app has some basic functionality such as User Authentication (Login & Register), make a client appointment for a laboratory service, manage appointment (approve, reject),and manage laboratory services.
+  tags:
+    - Personal Project
+    - python
+    - django
+    - bootstrap
+    - sqllite
+  icon: website
+  image: images/laboratory-app.png
+
+- name: Calculator App
+  url: https://diksepta.github.io/basic-calculator-app
+  description: Calculator app built using Create React App, Redux & Redux Toolkit as state management framework, Styled-Component as styling library, and Redux-persist as session handling. This app has theme selection features, and able to persist calculator state when user close or refresh the tab.
+  tags:
+    - Personal Project
+    - Styled component
+    - Redux Toolkit
+  icon: website
+  image: images/calculator.png
+
+- name: Al Fatih Firefighting Robot
+  url: https://www.youtube.com/watch?v=zMRR-B1HZrg
+  description: A six legged robot capable of extinguishing fire autonomously, 2-nd winner in Kontes Robot Indonesia.
+  tags:
+    - College Project
+    - C
+    - STM32
+    - Arduino
+    - Temperature Censor
+    - Range Censor
+    - Servo Controller
+    - LIDAR Censor
+    - I2C
+    - UART
+  icon: website
+  image: images/alfatih.jpg

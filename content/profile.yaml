@@ -1,0 +1,30 @@
+- profile: Diky Septa
+  initials: DSN
+  name: Diky Septa Nugroho
+  profession: Software Developer
+  image: images/profile.jpg
+  location: Yogyakarta, Indonesia
+  relocation: false
+  company: PT. Indonesia Epson Industry
+  for_hire: false
+  focus: Frontend Technology
+  focus_url: ""
+  about: |
+    Hardworking and reliable Software Developer focused on going above and beyond to support team and serve customers. Having an a good analytical thinking, and problem solving skills proved by outstanding academic achievements. Motivated to continue to learn and grow as Front End Developer professional.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - C++
+    - Python
+  tools:
+    - React
+    - VSCode
+    - Django
+    - Perforce
+    - Git
+    - Jenkins
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
