@@ -6,6 +6,7 @@
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
     "gatsby": "^4.18.2",
+    "gatsby-plugin-image": "^2.18.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
