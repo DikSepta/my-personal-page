@@ -5,7 +5,7 @@
   image: images/profile.jpg
   location: Yogyakarta, Indonesia
   relocation: false
-  company: PT. Indonesia Epson Industry
+  company: GDP Labs
   for_hire: false
   focus: Frontend Technology
   focus_url: ""
@@ -13,15 +13,21 @@
     Hardworking and reliable Software Developer focused on going above and beyond to support team and serve customers. Having an a good analytical thinking, and problem solving skills proved by outstanding academic achievements. Motivated to continue to learn and grow as Front End Developer professional.
   skills:
     - JavaScript
+    - TypeScript
     - HTML / CSS
     - C++
     - Python
   tools:
     - React
-    - VSCode
-    - Django
-    - Perforce
+    - NextJs
+    - TailwindCSS
+    - Material UI
     - Git
+    - Django
+    - Figma
+    - Perforce
+    - Google Analytics
+    - VSCode
     - Jenkins
   budget:
     currency: $

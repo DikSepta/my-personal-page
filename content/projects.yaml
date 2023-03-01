@@ -1,3 +1,30 @@
+- name: Compass
+  url: https://www.compass.kontrakhukum.com
+  description: Develop and maintain frontend codebase of Compass, The AI-powered Indonesia's Regulation Search Engine. With Compass, you can find any Indonesian regulation by only typing a keyword just like Google. Support autocomplete keyword, typo detection, and recommended similar regulation.
+  tags:
+    - Professional Project
+    - React
+    - NextJs
+    - Typescript
+    - TailwindCSS
+    - Google Analytics 4
+    - Elastic Search
+  icon: website
+  image: images/compass.png
+
+- name: Meemo Meeting Analytics
+  url: https://meemo.prosa.ai/
+  description: Develop and maintain frontend codebase of Meemo. A speech to text web apps for enterprise. With Meemo, you can automatically generate summary and analysis of a meeting or conversation.
+  tags:
+    - Professional Project
+    - React
+    - NextJs
+    - Typescript
+    - Material UI
+    - PWA
+  icon: website
+  image: images/meemo.png
+
 - name: User Interface of Epson Inkjet Printer
   url: https://www.youtube.com/watch?v=G7TzNLPHy0k
   description: Design, develop and maintain firmware of Printer's User Interface for various Epson Printer series including Workforce Series, ET Series, and XP Series.
