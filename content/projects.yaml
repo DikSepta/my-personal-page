@@ -1,5 +1,5 @@
 - name: Compass
-  url: https://www.compass.kontrakhukum.com
+  url: https://compass.kontrakhukum.com
   description: Develop and maintain frontend codebase of Compass, The AI-powered Indonesia's Regulation Search Engine. With Compass, you can find any Indonesian regulation by only typing a keyword just like Google. Support autocomplete keyword, typo detection, and recommended similar regulation.
   tags:
     - Professional Project
