@@ -5,9 +5,9 @@
   image: images/profile.jpg
   location: Yogyakarta, Indonesia
   relocation: false
-  company: GDP Labs
+  company: PT. Global Sukses Solusi
   for_hire: false
-  focus: Frontend Technology
+  focus: Fullstack Technology
   focus_url: ""
   about: |
     Hardworking and reliable Software Developer focused on going above and beyond to support team and serve customers. Having an a good analytical thinking, and problem solving skills proved by outstanding academic achievements. Motivated to continue to learn and grow as Front End Developer professional.
@@ -20,6 +20,7 @@
   tools:
     - React
     - NextJs
+    - Node
     - TailwindCSS
     - Material UI
     - Git

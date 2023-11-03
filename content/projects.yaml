@@ -1,3 +1,15 @@
+- name: RunSystem Platform
+  url: https://runsystem.io/
+  description: Develop and maintain frontend codebase of Runsystem.io, low-code application that can be used to develop custom applications with minimal code. The platform provide pre-built components and drag-and-drop interfaces.
+  tags:
+    - Professional Project
+    - React
+    - NextJs
+    - Typescript
+    - TailwindCSS
+  icon: website
+  image: images/platform.png
+
 - name: Compass
   url: https://compass.kontrakhukum.com
   description: Develop and maintain frontend codebase of Compass, The AI-powered Indonesia's Regulation Search Engine. With Compass, you can find any Indonesian regulation by only typing a keyword just like Google. Support autocomplete keyword, typo detection, and recommended similar regulation.
